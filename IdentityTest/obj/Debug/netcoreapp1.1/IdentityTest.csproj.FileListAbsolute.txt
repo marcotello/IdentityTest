@@ -1,0 +1,12 @@
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\IdentityTest.deps.json
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\IdentityTest.runtimeconfig.json
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\IdentityTest.runtimeconfig.dev.json
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\IdentityTest.dll
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\bin\Debug\netcoreapp1.1\IdentityTest.pdb
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\obj\Debug\netcoreapp1.1\IdentityTest.csprojResolveAssemblyReference.cache
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\obj\Debug\netcoreapp1.1\IdentityTest.AssemblyInfo.cs
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\obj\Debug\netcoreapp1.1\IdentityTest.dll
+C:\Users\marco\documents\visual studio 2017\Projects\IdentityTest\IdentityTest\obj\Debug\netcoreapp1.1\IdentityTest.pdb
